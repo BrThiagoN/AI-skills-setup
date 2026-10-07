@@ -6,8 +6,8 @@ Coleção pessoal de skills em pastas simples com `SKILL.md`, mantida no Git par
 
 | Skill | Uso |
 | --- | --- |
-| [`megabrain-design`](skills/megabrain-design/) | Direção visual e criação de interfaces com identidade própria. |
-| [`senior-backend-dev-workflow`](skills/senior-backend-dev-workflow/) | Fluxo cuidadoso para projetar, implementar e revisar mudanças de backend. |
+| [`megabrain-design`](skills/megabrain-design/) | Direção visual e criação de interfaces com identidade própria. Adaptada da skill [`frontend-design`](https://github.com/anthropics/skills/tree/683bc88e56f3e09ba94f7055977f3d3aa499f202/skills/frontend-design), publicada pela Anthropic. |
+| [`senior-backend-dev-workflow`](skills/senior-backend-dev-workflow/) | Fluxo cuidadoso para projetar, implementar e revisar mudanças de backend. Adaptada do trabalho de [Damon Lee](https://github.com/damonleelcx/senior-backend-dev-workflow). |
 
 As pastas de cada skill incluem os arquivos necessários. A skill de backend também usa os documentos em `references/`.
 

@@ -1,6 +1,7 @@
 ---
 name: megabrain-design
 description: Guidance for distinctive, intentional visual design when building new UI or reshaping an existing one. Helps with aesthetic direction, typography, and making choices that don't read as templated defaults.
+license: Complete terms in LICENSE.txt
 ---
 
 # MegaBrain Design
@@ -52,3 +53,7 @@ Use active voice as default. A control should say exactly what happens when it's
 Treat failure and emptiness as moments for direction, not mood. Explain what went wrong and how to fix it, in the interface's voice rather than a person's. Errors don't apologize, and they are never vague about what happened. An empty screen is an invitation to act.
 
 Keep the register conversational and tuned: plain verbs, sentence case, no filler, with tone matched to the brand and the audience. Let each element do exactly one job. A label labels, an example demonstrates, and nothing quietly does double duty.
+
+## Attribution and license
+
+This skill is adapted and modified from Anthropic's [`frontend-design`](https://github.com/anthropics/skills/tree/683bc88e56f3e09ba94f7055977f3d3aa499f202/skills/frontend-design) skill. It is distributed under Apache License 2.0; see [`LICENSE.txt`](LICENSE.txt) for the license terms.
